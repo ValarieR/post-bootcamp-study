@@ -13,7 +13,7 @@ As much as possible, I have tried to include resources which work for different 
 * [Computer Science](#compsci)
 * [Networking](#networking)
 * [ShellScripting](#shellscripting)
-* [Setting up a development environment](#environments)
+* [Environments](#environments)
 * [Version control/Git](#version-controlgit)
 * [Debugging/Chrome Devtools](#debuggingchrome-dev-tools)
 * [Testing](#testing)
@@ -40,6 +40,8 @@ As much as possible, I have tried to include resources which work for different 
 
   * [What computer networks are and how to actually understand them](https://www.freecodecamp.org/news/computer-networks-and-how-to-actually-understand-them-c1401908172d/)
 
+  * [NETWORKING FOR DEVELOPERS – PART 1: OVERVIEW](https://flaviabastos.ca/2019/01/25/networking-for-developers-part-1-overview/)
+
 * #### <a name="cliscript"/>CLI & Shell Scripting</a>
   
   * [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
@@ -51,6 +53,10 @@ As much as possible, I have tried to include resources which work for different 
   * [Linux Shell Scripting: A Project-Based Approach to Learning](https://www.udemy.com/share/1014QMAkUccV9XR34=/)
 
   * [Shell Scripting Tutorial](https://www.tutorialspoint.com/unix/shell_scripting.htm)
+
+  * [Learn vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
+
+  * [Linux chmod command](https://www.computerhope.com/unix/uchmod.htm)
 
 * #### <a name="environments"/>Environments</a>
 
@@ -69,6 +75,8 @@ As much as possible, I have tried to include resources which work for different 
   * [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
 
   * [GIT: Some Commit best practices and How to undo your recent Commits](https://koukia.ca/git-some-commit-best-practices-and-how-to-undo-your-recent-commits-d13c9dc3144f)
+
+  * [Useful GitHub Features](https://jwong.co.uk/blog/2018/09/01/useful-github-features/#issue-and-pr-templates)
 
 * #### <a name="debuggingchrome-dev-tools"/>Debugging/Chrome Devtools</a>
 
