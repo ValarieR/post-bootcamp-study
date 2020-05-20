@@ -10,7 +10,6 @@
 
 #### Table of Contents
 
-[Technologies](#technologies)
 * [Computer Science](#compsci)
 * [Networking](#networking)
 * [ShellScripting](#shellscripting)
@@ -20,13 +19,10 @@
 * [Testing](#testing)
 * [DevOps/Deployments](#devopsdeployments)
 * [Accessibility](#accessibility)
-[Working](#working)
 * [Development Methodologies](#agileleanscrum)
 * [Bug tracking](#bug-tracking)
 
 -------------------------------------
-
-#### <a name="technologies"/>Technologies</a>
 
 * ##### <a name="compsci"/>Compuer Science</a>
 
@@ -99,8 +95,6 @@
   * [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/)
 
   * [Google Web Fundamentals - Accessibility](https://developers.google.com/web/fundamentals/accessibility)
-
-##### <a name="working"/>Working</a>
 
 * ##### <a name="agileleanscrum"/>Development Methodologies</a>
 
